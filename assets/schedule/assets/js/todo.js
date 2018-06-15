@@ -1,4 +1,3 @@
-console.log("testing 1");
 $("#list").on("click", "li", function(){
 	$(this).toggleClass("completed");
 });
