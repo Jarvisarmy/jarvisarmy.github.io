@@ -8,7 +8,7 @@ $("#list").on("click", "span", function(event){
 		$(this).remove();
 	});
 	event.stopPropagation();
-})
+});
 
 
 $("#input[type=text]").on("keypress", function(event){
@@ -24,4 +24,4 @@ $("#input[type=text]").on("keypress", function(event){
 
 $(".fa-plus").click(function(){
 	$("input[type=text]").fadeToggle();
-})
+});
