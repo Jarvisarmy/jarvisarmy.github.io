@@ -14,7 +14,7 @@ $("#list").on("click", "span", function(event){
 $("#input[type=text]").on("keypress", function(event){
 	if (event.which == 13) {
 		var input = $(this).val();
-		$("#list").append("<li class="task"><span class="delete"><i class='far fa-trash-alt'></i></span> "
+		$("#list").append("<li class='task'><span class='delete'><i class='far fa-trash-alt'></i></span> "
 			+input + "</li>");
 		$(this).val("")
 	}
