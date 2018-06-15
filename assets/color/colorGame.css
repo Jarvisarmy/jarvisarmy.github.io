@@ -3,7 +3,7 @@ body {
 	margin: 0px;
 }
 
-button {
+#inStripe {
 	border: none;
 	background: none;
 	text-transform: uppercase;
@@ -18,7 +18,7 @@ button {
 	outline: none;
 }
 
-button:hover {
+#inStripe:hover {
 	color: white;
 	background: steelblue;
 }
