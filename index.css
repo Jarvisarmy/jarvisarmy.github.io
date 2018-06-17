@@ -1,3 +1,5 @@
 body {
 	background-image: url("lib/photo/sky.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
 }
