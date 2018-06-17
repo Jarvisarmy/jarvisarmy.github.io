@@ -1,5 +1,5 @@
 body {
-	background-image: url("lib/photo/sky.jpg");
+	background-image: url("lib/photo/pets.jpg");
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size: cover;
 }
