@@ -12163,6 +12163,9 @@ module.exports = __vue_exports__
 //
 //
 //
+//
+//
+//
 
 /* harmony default export */ exports["default"] = {};
 
@@ -12175,7 +12178,7 @@ exports = module.exports = __webpack_require__(5)();
 
 
 // module
-exports.push([module.i, "", ""]);
+exports.push([module.i, "a[data-v-f886325e]{display:block}", ""]);
 
 // exports
 
@@ -12433,11 +12436,19 @@ process.umask = function() { return 0; };
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _vm._m(0)
 },staticRenderFns: [function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
-  return _c('div', [_c('h2', [_vm._v(" hello ")]), _vm._v(" "), _c('a', {
+  return _c('div', [_c('h2', [_vm._v(" hello ")]), _vm._v(" "), _c('p', [_vm._v(" I'm currently working on my personal website using vue.js. the following links are the project I done previously without vue.js")]), _vm._v(" "), _c('a', {
     attrs: {
-      "href": "./assets/assets.html"
+      "href": "./assets/tetris/tetris.html"
     }
-  }, [_vm._v(" previous website built without vue.js")])])
+  }, [_vm._v(" tetris")]), _vm._v(" "), _c('a', {
+    attrs: {
+      "href": "./assets/schedule/schedule.html"
+    }
+  }, [_vm._v(" schedule")]), _vm._v(" "), _c('a', {
+    attrs: {
+      "href": "./assets/color/colorGame.html"
+    }
+  }, [_vm._v(" colorGame ")])])
 }]}
 
 /***/ },
