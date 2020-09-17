@@ -24,6 +24,7 @@ export default {
 </script>
 <style lang="scss" scoped>
 .nav-bar {
+    z-index: 10;
     height: 60px;
     background-color: rgb(115,115,115);
     margin: 0;

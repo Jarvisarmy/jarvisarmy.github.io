@@ -14,6 +14,25 @@
         <li> <a href="https://jarvisarmy.github.io/Flappy-Bird"> Flappy Bird </a> </li>
         <li> <a href="https://jarvisarmy.github.io/Escape-game"> Escape Game </a> </li>
         </ul>
+        <h4> projects build using vue.js </h4>
+        <ul>
+            <li>
+                <router-link to="/project/playlist"> playlist</router-link>
+            </li>
+        </ul>
+        <h4> projects build using ios13 and swift5, the following links are to the source code </h4>
+        <ul>
+            <li>
+                <a href="https://github.com/Jarvisarmy/quizzler"> Quizzler </a>
+            </li>
+            <li>
+                <a href="https://github.com/Jarvisarmy/eggTimer-ios13"> eggTimer </a>
+            </li>
+            <li>
+                <a href="https://github.com/Jarvisarmy/BMI-Calculator-ios13"> BMICalculator </a>
+            </li>
+        </ul>
+            
     </div>
 </template>
 
