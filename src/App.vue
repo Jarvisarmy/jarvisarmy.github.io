@@ -20,6 +20,8 @@ export default {
 <style scoped>
 a {
     display: block;
+    margin: 0;
+    padding: 0;
 }
 </style>
     

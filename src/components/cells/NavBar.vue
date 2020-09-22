@@ -11,6 +11,9 @@
                 <router-link to="#"> Work </router-link>
             </li>
             <li class="nav-item">
+                <router-link to="/education"> Education </router-link>
+            </li>
+            <li class="nav-item">
                 <router-link to="#"> Contact </router-link>
             </li>
         </ul>
