@@ -35,16 +35,16 @@
         <h4> CPA805 website project (HTML, CSS, JavaScript, ReactJS, NodeJS, SQL) 2021
         <ul> 
             <li>
-                Heroku frontend: <a> https://still-thicket-95361.herokuapp.com/ </a>
+                Heroku frontend: <a href="https://still-thicket-95361.herokuapp.com/"> https://still-thicket-95361.herokuapp.com/ </a>
             </li>
              <li>
-                Heroku backend: <a> https://guarded-anchorage-82080.herokuapp.com/ </a>
+                Heroku backend: <a href="https://guarded-anchorage-82080.herokuapp.com/"> https://guarded-anchorage-82080.herokuapp.com/ </a>
             </li>
              <li>
-                Github frontend: <a> https://github.com/Jarvisarmy/CAP805-frontend/tree/master </a>
+                Github frontend: <a href="https://github.com/Jarvisarmy/CAP805-frontend/tree/master"> https://github.com/Jarvisarmy/CAP805-frontend/tree/master </a>
             </li>
              <li>
-                Github backend: <a> https://github.com/Jarvisarmy/CAP805-backend/tree/master </a>
+                Github backend: <a href="https://github.com/Jarvisarmy/CAP805-backend/tree/master"> https://github.com/Jarvisarmy/CAP805-backend/tree/master </a>
             </li>
             <li>
                 Focus on the whole process of building a project, including planning, system architecture, task management and bug tracking, database integration, testing, securing. Include authentication and authorization.
@@ -53,16 +53,16 @@
         <h4> CJV805 website project (Java, HTML, CSS, JavaScript, Mango DB) 2021
         <ul>
             <li>
-                Heroku frontend: <a> https://cjv-frontend.herokuapp.com/ </a>
+                Heroku frontend: <a href="https://cjv-frontend.herokuapp.com/"> https://cjv-frontend.herokuapp.com/ </a>
             </li>
              <li>
-                Heroku backend: <a> https://cjv-backend.herokuapp.com/</a>
+                Heroku backend: <a href="https://cjv-backend.herokuapp.com/"> https://cjv-backend.herokuapp.com/</a>
             </li>
              <li>
-                Github frontend: <a> https://github.com/Jarvisarmy/CJV-frontend </a>
+                Github frontend: <a href="https://github.com/Jarvisarmy/CJV-frontend"> https://github.com/Jarvisarmy/CJV-frontend </a>
             </li>
              <li>
-                Github backend: <a> https://github.com/Jarvisarmy/cjv-backend </a>
+                Github backend: <a href="https://github.com/Jarvisarmy/cjv-backend"> https://github.com/Jarvisarmy/cjv-backend </a>
             </li>
             <li>
                 Building fake amazon website using strong skills of HTML, CSS and JavaScript. Extracting data from mango DB to display the content. Verifying the input to the login and register form.
