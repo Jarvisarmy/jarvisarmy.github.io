@@ -67,6 +67,7 @@
             <li>
                 Building fake amazon website using strong skills of HTML, CSS and JavaScript. Extracting data from mango DB to display the content. Verifying the input to the login and register form.
             </li>
+        </ul>
                 
             
   
